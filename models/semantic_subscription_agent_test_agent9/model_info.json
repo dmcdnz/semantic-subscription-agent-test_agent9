@@ -1,0 +1,11 @@
+{
+  "agent_type": "semantic_subscription_agent_test_agent9",
+  "base_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "train_examples": 2344,
+  "val_examples": 586,
+  "positive_examples": 1474,
+  "negative_examples": 1456,
+  "best_val_f1": 0.8392554991539763,
+  "created_at": "2025-04-23T15:13:04.744970"
+}
